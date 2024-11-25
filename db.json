@@ -1,0 +1,32 @@
+{
+  "estudiantes": [
+    {
+      "id": "1",
+      "nombre": "Stalin",
+      "nota1": 8,
+      "nota2": 7,
+      "suma": 15
+    },
+    {
+      "id": 2,
+      "nombre": "Aldair",
+      "nota1": "8",
+      "nota2": "7",
+      "suma": 15
+    },
+    {
+      "id": 3,
+      "nombre": "carla",
+      "nota1": "8",
+      "nota2": "8",
+      "suma": 16
+    },
+    {
+      "id": 4,
+      "nombre": "santiago",
+      "nota1": "4",
+      "nota2": "4",
+      "suma": 8
+    }
+  ]
+}
